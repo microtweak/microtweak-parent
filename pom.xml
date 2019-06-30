@@ -7,7 +7,7 @@
     <groupId>com.github.microtweak</groupId>
     <artifactId>microtweak-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>Microtweak Parent</name>
     <description>Microtweak Parent POM</description>
@@ -113,6 +113,7 @@
                 <scope>test</scope>
             </dependency>
 
+            <!-- Testing -->
             <dependency>
                 <groupId>org.junit.jupiter</groupId>
                 <artifactId>junit-jupiter-engine</artifactId>
